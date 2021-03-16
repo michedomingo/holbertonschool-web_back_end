@@ -2,6 +2,7 @@
 """
 Define safe_first_element function
 """
+
 from typing import Sequence, Any, Union
 
 
