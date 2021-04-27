@@ -60,4 +60,4 @@ What you should learn from this project:
 
 ## Author
 
-- **Michelle Domingo** - [michedomingo](https://github.com/michedomingo).
+- **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)
